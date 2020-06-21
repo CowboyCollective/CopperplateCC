@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft" format="2">
+  <advance width="371"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="80" y="-220" type="line"/>
+      <point x="80" y="-205" type="line"/>
+      <point x="100" y="-205" type="line"/>
+      <point x="100" y="-220" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="765" type="line"/>
+      <point x="80" y="780" type="line"/>
+      <point x="100" y="780" type="line"/>
+      <point x="100" y="765" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="-60" type="line"/>
+      <point x="351" y="-60" type="line"/>
+      <point x="351" y="-240" type="line"/>
+      <point x="336" y="-240" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="800" type="line"/>
+      <point x="351" y="800" type="line"/>
+      <point x="351" y="620" type="line"/>
+      <point x="336" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="640" type="line"/>
+      <point x="250" y="-80" type="line"/>
+      <point x="351" y="-80" type="line"/>
+      <point x="351" y="-220" type="line"/>
+      <point x="100" y="-220" type="line"/>
+      <point x="100" y="780" type="line"/>
+      <point x="351" y="780" type="line"/>
+      <point x="351" y="640" type="line"/>
+    </contour>
+  </outline>
+</glyph>

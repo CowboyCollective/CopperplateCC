@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="685"/>
+  <unicode hex="0054"/>
+  <anchor x="341" y="700" name="top"/>
+  <anchor x="344" y="0" name="bottom"/>
+  <anchor x="344" y="0" name="cedilla"/>
+  <outline>
+    <contour>
+      <point x="10" y="715" type="line"/>
+      <point x="25" y="715" type="line"/>
+      <point x="25" y="580" type="line"/>
+      <point x="10" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="660" y="715" type="line"/>
+      <point x="675" y="715" type="line"/>
+      <point x="675" y="580" type="line"/>
+      <point x="660" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="605" type="line"/>
+      <point x="10" y="700" type="line"/>
+      <point x="675" y="700" type="line"/>
+      <point x="675" y="605" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="0" type="line"/>
+      <point x="255" y="15" type="line"/>
+      <point x="430" y="15" type="line"/>
+      <point x="430" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="700" type="line"/>
+      <point x="400" y="700" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

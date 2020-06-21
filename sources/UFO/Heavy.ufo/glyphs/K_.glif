@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="765"/>
+  <unicode hex="004B"/>
+  <anchor x="376" y="700" name="top"/>
+  <anchor x="370" y="0" name="bottom"/>
+  <anchor x="139" y="0" name="cedilla"/>
+  <outline>
+    <contour>
+      <point x="576" y="0" type="line"/>
+      <point x="576" y="15" type="line"/>
+      <point x="755" y="15" type="line"/>
+      <point x="755" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="380" type="line"/>
+      <point x="400" y="428" type="line"/>
+      <point x="745" y="0" type="line"/>
+      <point x="606" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="572" y="685" type="line"/>
+      <point x="572" y="700" type="line"/>
+      <point x="750" y="700" type="line"/>
+      <point x="750" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="612" y="700" type="line"/>
+      <point x="750" y="700" type="line"/>
+      <point x="180" y="230" type="line"/>
+      <point x="110" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="65" y="15" type="line"/>
+      <point x="215" y="15" type="line"/>
+      <point x="215" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="685" type="line"/>
+      <point x="65" y="700" type="line"/>
+      <point x="215" y="700" type="line"/>
+      <point x="215" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="700" type="line"/>
+      <point x="195" y="700" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

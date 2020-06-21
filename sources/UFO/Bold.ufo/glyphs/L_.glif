@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="720"/>
+  <unicode hex="004C"/>
+  <anchor x="167" y="700" name="top"/>
+  <anchor x="408" y="0" name="bottom"/>
+  <anchor x="408" y="0" name="cedilla"/>
+  <outline>
+    <contour>
+      <point x="690" y="170" type="line"/>
+      <point x="705" y="170" type="line"/>
+      <point x="705" y="-10" type="line"/>
+      <point x="690" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="65" y="15" type="line"/>
+      <point x="85" y="15" type="line"/>
+      <point x="85" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="685" type="line"/>
+      <point x="65" y="700" type="line"/>
+      <point x="270" y="700" type="line"/>
+      <point x="270" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="0" type="line"/>
+      <point x="152" y="140" type="line"/>
+      <point x="705" y="140" type="line"/>
+      <point x="705" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="700" type="line"/>
+      <point x="250" y="700" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

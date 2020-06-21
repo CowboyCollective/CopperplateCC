@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="532"/>
+  <unicode hex="00A8"/>
+  <anchor x="266" y="700" name="_top"/>
+  <outline>
+    <component base="periodcentered" xScale="0.8" yScale="0.8" xOffset="232" yOffset="497"/>
+    <component base="periodcentered" xScale="0.8" yScale="0.8" xOffset="-4" yOffset="497"/>
+  </outline>
+</glyph>
