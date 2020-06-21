@@ -1,0 +1,26 @@
+FONTLOG for Copperplate CC
+==========================
+
+This file includes information about the Copperplate CC typeface by indestructible type* for the Cowboy Collective.
+
+
+About
+-----
+
+Designed by Frederic Goudy in 1902, Copperplate Gothic is an American classic. The mix of simple capital letterforms with delicate serifs feels both sturdy and refined. It has made its way onto business cards, bank windows, and high quality mustard labels.
+
+indestructible type* is joining the Cowboy Collective by making free and open-source digital revivals of classic American typefaces. Copperplate Gothic is a perfect starting place because dispute its ubiquity and public domain nature, a free digital revival has yet to be made.
+
+For this project I went back to the source materials. Unfortunately the original drawings were lost in a 1939 fire, but the American Type Founder catalogues from that era provide some insight into the Goudy's design. I wanted to stay true to the source material, so this digitization differs from other versions. Unlike some, there are no small caps by default, as this was not originally present. The serifs are also smaller then most reproductions, and I have elected to keep the somewhat bizarre naming convention that calls the non bold version "heavy".
+
+In some ways this Copperplate is not the one we are all familiar with, but perhaps it is more true to the 1900s spirit.
+
+
+Changelog
+---------
+=1.0 June 2020=
+Initial release
+
+Contact
+-------
+If you have questions, email me at indestructibletype@gmail.com
