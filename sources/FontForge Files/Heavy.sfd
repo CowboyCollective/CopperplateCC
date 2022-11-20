@@ -1,5 +1,5 @@
-SplineFontDB: 3.0
-FontName: CopperplateCC
+SplineFontDB: 3.2
+FontName: CopperplateCCHeavy
 FullName: Copperplate CC
 FamilyName: Copperplate CC
 Weight: Heavy
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1465610489
-ModificationTime: 1592767417
+ModificationTime: 1668946610
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
